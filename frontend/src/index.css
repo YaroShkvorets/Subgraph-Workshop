@@ -1,0 +1,48 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.app{
+  width: 98%;
+  margin: 0 auto;
+}
+
+.punks-image {
+  max-height: 200px;
+  width: auto;
+  display: block;
+  margin: 60px auto;
+}
+
+table {
+  width: 100%;
+  margin-top: 50px;
+}
+
+th {
+  background-color: #f2f2f2;
+  padding: 10px;
+}
+tr:nth-child(even) {
+  background-color: #D6EEEE;
+}
+tr {
+  border: 1px solid #ccc;
+}
+td {
+  padding: 5px;
+  text-align: center;
+}
+input {
+  width: 30%;
+  padding: 5px;
+  margin: 20px;
+}
+h1 {
+  text-align: center;
+}
