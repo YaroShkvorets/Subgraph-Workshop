@@ -6,6 +6,7 @@
 
 ## Good subgraphs:
 
+- [CryptoPunks Subgraph](https://thegraph.com/explorer/subgraphs/YqMJatbgbqy1GodtbYZv4U9NzyaScCgSF7CAE5ivAM7)
 - [Messari Subgraphs](https://subgraphs.messari.io)
 - [EIP-721 (NFTS on The Graph Network)](https://thegraph.com/explorer/subgraph?id=AVZ1dGwmRGKsbDAbwvxNmXzeEkD48voB3LfGqj5w7FUS&view=Overview)
 - [Lens Protocol](https://thegraph.com/hosted-service/subgraph/anudit/lens-protocol)
