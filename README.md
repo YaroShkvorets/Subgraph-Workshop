@@ -1,7 +1,7 @@
-# Subgraph Workshop
+# Subgraph Development Workshop
 
 ## Slides
-[![Top Slide](https://github.com/YaroShkvorets/Subgraph-Workshop/assets/29608734/87745898-30ee-476d-8f2e-4d151f14a9b9)](https://docs.google.com/presentation/d/1QDEAImf9M64uvL03EX15poUrmEd19iCGm5iS9xplfzU/edit?usp=sharing)
+[![Top Slide](https://github-production-user-asset-6210df.s3.amazonaws.com/29608734/270851438-87745898-30ee-476d-8f2e-4d151f14a9b9.png)](https://docs.google.com/presentation/d/1QDEAImf9M64uvL03EX15poUrmEd19iCGm5iS9xplfzU/edit?usp=sharing)
 
 
 ## Good subgraphs:
