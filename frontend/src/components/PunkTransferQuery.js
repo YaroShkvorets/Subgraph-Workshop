@@ -13,7 +13,12 @@ const PunkTransferQuery = ({ punkIndex, from, to }) => {
 
   const GET_PUNK_TRANSFERS = gql`
     query GetPunkTransfers($punkIndex: BigInt, $from: Bytes, $to: Bytes) {
-        punkTransfers(where: {${punkIndex !== "" ? "punkIndex: $punkIndex,": ""} ${from !== ""? "from: $from,": ""} ${to !== ""? "to: $to": ""} }, orderBy: blockNumber, first: 25) {
+        punkTransfers(
+          where: {
+            ${punkIndex !== "" ? "punkIndex: $punkIndex,": ""}
+            ${from !== ""? "from: $from,": ""}
+            ${to !== ""? "to: $to": ""}
+          }, orderBy: blockNumber, first: 25) {
             from
             to
             punkIndex
