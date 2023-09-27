@@ -26,4 +26,5 @@
 - [Scaffold-ETH full stack setup](https://mirror.xyz/cryptomastery.eth/uGHEHnskoVwX-mWjAiidXfGt6QowCoKl_yX4okwZc0E)
 - [Different ways to query subgraphs](https://github.com/marcusrein/Subgraph-Query-Workshop-2023)
 - [CryptoPunks subgraph github](https://github.com/itsjerryokolo/CryptoPunks)
+- [The Graph Explainer by Finematics @ Youtube](https://www.youtube.com/watch?v=7gC7xJ_98r8)
 - [The Graph Discord](https://thegraph.com/discord)
